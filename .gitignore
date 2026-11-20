@@ -1,0 +1,6 @@
+# Design working files stay local: anything committed to a GitHub Pages repo is public and served.
+.claude/
+.impeccable/
+PRODUCT.md
+DESIGN.md
+_*.html
